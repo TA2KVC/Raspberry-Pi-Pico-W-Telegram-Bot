@@ -11,4 +11,5 @@ https://github.com/gabrielebarola/telegram-upy
 
 
 Pico W'da dahili LED önceki nesil Pico'lar gibi (GPIO25) bir pine bağlanmayıp, üzerindeki WIFI çipine (WL_GPIO0) taşınmış. 
+
 Pico'larda dahili sıcaklık sensörü sanal ADC4 pinine bağlı. 
