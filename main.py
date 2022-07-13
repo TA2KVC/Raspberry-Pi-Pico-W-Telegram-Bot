@@ -48,7 +48,7 @@ def off(update):
     update.reply('* LED kapalı *')
 
 @bot.add_command_handler('sensor')
-def help(update):
+def sensor(update):
     oku = temp.read_u16() * ceviri
     isi = round((27 - (oku - 0.706)/0.001721),2)
     mesaj = ('*Ortam sicakligi :  * ')
