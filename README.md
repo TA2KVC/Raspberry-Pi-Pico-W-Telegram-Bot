@@ -2,6 +2,7 @@
 Raspberry Pi Pico W basic onboard LED and temperature sensor Telegram Bot
 
 Kablosuz bağlantı imkanı sunan Raspberry Pi Pico W'nun dahili LED'i ve sıcaklık sensörünün Telegram Bot ile kontrol edilmesini sağlayan basit bir program.
+
 ![pico](https://user-images.githubusercontent.com/62475996/178732305-c20e8080-6a2e-4a8f-bee0-962d29fee346.jpg)
 
 
